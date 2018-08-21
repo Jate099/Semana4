@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view){
                 Intent intento = new Intent(getApplicationContext(), Menu.class);
                 nombreUsuario = elUserName.getText().toString();
-
+                //// otro
                 //lololol bxvsdfgdfg
             }
         }
