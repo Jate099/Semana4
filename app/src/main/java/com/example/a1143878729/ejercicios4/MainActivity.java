@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intento = new Intent(getApplicationContext(), Menu.class);
                 nombreUsuario = elUserName.getText().toString();
 
-                //lololol
+                //lololol bxvsdfgdfg
             }
         }
 
